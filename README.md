@@ -41,35 +41,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebyAbhi365&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codebyAbhi365&theme=radical&utcOffset=5.5" height="150" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyAbhi365&theme=radical" height="150" alt="Langs Per Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebyAbhi365&theme=radical" height="150" alt="Most Commit Language" />
-</div>
-
-###
-
-<!-- Activity Graph - works great even with few repos! -->
+<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyAbhi365&theme=redical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-###
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/codebyAbhi365/count.svg" alt="Visitor Count" />
-</div>
-
-###
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebyAbhi365&theme=radical&no-frame=true&row=1" width="100%" alt="Trophies" />
 </div>
 
 ###
