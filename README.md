@@ -42,12 +42,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyAbhi365&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=codebyAbhi365&theme=radical&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebyAbhi365&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codebyAbhi365&theme=radical&utcOffset=5.5" height="150" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyAbhi365&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codebyAbhi365&theme=radical" height="150" alt="Langs Per Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebyAbhi365&theme=radical" height="150" alt="Most Commit Language" />
 </div>
 
 ###
