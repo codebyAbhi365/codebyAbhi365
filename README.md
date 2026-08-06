@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm Abhishek Kadam — 2x 🏆 Hackathon Winner & CS Undergrad building at the intersection of AI & Full Stack</h2>
+<h2 align="left">Hi 👋! I'm Abhishek Kadam — CS Undergrad Building **AI, Agents & Things That Should Probably Exist.** 🤖⚡
+ </h2>
 
 ###
 
