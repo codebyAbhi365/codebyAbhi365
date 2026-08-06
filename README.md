@@ -53,8 +53,23 @@
 
 ###
 
+<!-- Activity Graph - works great even with few repos! -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyAbhi365&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebyAbhi365&theme=redical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+###
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/codebyAbhi365/count.svg" alt="Visitor Count" />
+</div>
+
+###
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codebyAbhi365&theme=radical&no-frame=true&row=1" width="100%" alt="Trophies" />
 </div>
 
 ###
