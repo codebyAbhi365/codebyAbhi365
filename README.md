@@ -42,14 +42,18 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebyAbhi365&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=codebyAbhi365&theme=radical&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebyAbhi365&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=codebyAbhi365&theme=radical&hide_border=true" height="150" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyAbhi365&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyAbhi365&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebyAbhi365&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
 </div>
 
 ###
