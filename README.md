@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Abhishek Kadam — CS Undergrad Building AI, Agents & Things That Should Probably Exist. 🤖⚡
+<h2 align="left">Hi 👋! I'm Abhishekk — CS Undergrad Building AI, Agents & Things That Should Probably Exist. 🤖⚡
  </h2>
 
 ###
